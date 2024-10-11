@@ -15,4 +15,5 @@ fun main() {
     //Fungsi equals
     val data2 = DataClass(1, "makan@gmail.com")
     println(data == data2) // false
+
 }
